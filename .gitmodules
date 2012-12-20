@@ -1,3 +1,9 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
+[submodule "content/themes/nakeme"]
+	path = content/themes/nakeme
+	url = https://github.com/siner/Nakeme.git
+[submodule "content/mu-plugins/pods"]
+	path = content/mu-plugins/pods
+	url = https://github.com/pods-framework/pods.git
